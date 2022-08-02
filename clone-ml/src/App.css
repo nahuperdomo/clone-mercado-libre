@@ -1,0 +1,19 @@
+#container{
+    background-color: #fff159;
+    
+}
+
+#inputHeader{
+    width: 90%;
+    height: 3rem;
+}
+.input-group{
+        width: 50%;
+}
+#regalo{
+    width: 2rem;
+}
+
+#lupa{
+    width: 2rem;
+}
